@@ -7,7 +7,7 @@ charset-normalizer==3.4.4
 click==8.3.1
 colorama==0.4.6
 gitdb==4.0.12
-GitPython==3.1.46
+GitPython
 gunicorn==25.0.3
 idna==3.11
 Jinja2==3.1.6
@@ -23,7 +23,7 @@ pillow==12.1.0
 protobuf==6.33.5
 pyarrow==23.0.0
 pydeck==0.9.1
-python-dateutil==2.9.0.post0
+python-dateutil
 pytz==2025.2
 referencing==0.37.0
 requests==2.32.5
@@ -41,4 +41,5 @@ typing_extensions==4.15.0
 tzdata==2025.3
 urllib3==2.6.3
 watchdog==6.0.0
+
 
